@@ -1,0 +1,27 @@
+
+body{
+    background-color:#85bebe  ;
+    
+}
+p{
+    color: rgb(148, 84, 193);
+}
+u{
+    color: rgb(189, 48, 48);
+}
+hr{
+    border-style: dotted none none;
+    color: #307b7b;
+    border-width: 4px;
+    width: 50%;
+
+}
+h2{
+    color: rgb(211, 15, 15);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+   
+}
+input{
+    background-color: #eae6ff;
+}
